@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "옵션"
-author: "Jekyll"
 tags: Jekyll
 ---
 
