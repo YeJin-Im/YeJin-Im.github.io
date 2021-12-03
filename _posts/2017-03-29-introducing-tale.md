@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introducing Tale"
+title:  "파생상품"
 author: "Chester"
 comments: true
 tags: Tale
@@ -9,25 +9,14 @@ sticky: true
 hidden: true
 ---
 
-Tale is a minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers. It is designed and developed by [myself](https://github.com/chesterhow/) for a friend who writes short stories.<!--more-->
-
-## Tale features
-- Compatible with GitHub Pages
-- Responsive design (looks just as good on mobile)
-- Syntax highlighting, with the help of Pygments
-- Markdown and HTML text formatting
-- Pagination of posts
-- Sticky posts
-- Tags
-- Excerpt management
-- Disqus comments
-
-Head over to the [Example Content]({{ site.baseurl }}/2017-03-16/example-content) post for a showcase of Tale's text formatting features.
-
-## Browser Support
-Tale works on most if not all modern browsers, including Chrome, Safari and Firefox 👍🏼
-
-## Download or Contribute
-Tale is publicly hosted on GitHub, so go ahead and download or fork it at the [GitHub repository](https://github.com/chesterhow/tale). If you spot any bugs or have any suggestions, feel free to create an issue or make a pull request.
-
-Thanks for checking out Tale!
+<p>
+  파생상품은 주식과 채권 등 전통적인 금융상품을 기초자산으로 하여 기초자산의 가치변동에 따라 가격이 결정되는 금융상품을 말한다.<br>
+  파생상품 거래의 대상이 되는 기초자산은 주식 · 채권 · 통화 등의 금융상품, 농 · 수 · 축산물 등의 일반상품 등도 가능하며, 신용위험 이외에 자연적 · 환경적 · 경제적 현상 등에 속하는 위험으로서 합리적이고 적정한 방법에 의해 가격 · 이자율 · 지표 · 단위의 산출이나 평가가 가능한 것은 모두 포함된다. 또한 파생상품을 기초자산으로 하는 파생상품(옵션선물, 선물옵션, 스왑옵션 등)도 가능하다.<br>
+  대표적인 파생상품으로는 <strong>선도거래, 선물, 옵션, 스왑</strong> 등이 있다.
+</p>
+<p style="margin-top:40px;">
+  <img src="https://user-images.githubusercontent.com/79431837/143680649-96c6b5ea-2d8d-44b4-90a3-adb0a09be6e4.jpg" width=600px;><br>
+  파생상품 시장은 장내시장과 장외시장으로 구분할 수 있다.<br>
+  장내시장은 가격 이외의 모든 거래요소가 표준화되어 있는 파생상품 거래시장으로서 거래소시장이라고도 한다.<br> 
+  장외시장은 표준화되어 있지 않은 파생상품이 거래소를 통하지 않고 시장참가자 간에 직접 거래되는 시장이다.
+</p>
