@@ -1,26 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "옵션"
 author: "Jekyll"
 tags: Jekyll
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets: like these
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<p>
+  옵션은 장래의 계약만료시점(혹은 그 이전에)에 특정한 금융수단을 계약 당사자가 미리 정한 특정가격(행사가격)에 매입하거나 매도할 수 있는 선택권을 부여하는 계약을 말한다.<br>
+  권리이기 때문에 꼭 사거나 팔아야 할 의무가 없어, 미래의 특정 시점에 특정 가격으로 매매의무가 주어지는 선물과는 근본적으로 다르다.
+</p>
+<p>
+  옵션에는 여러 가지 종류가 있다.<br>
+  권리행사 가능한 시점에 따라, 계약만료시점까지 언제든지 선택권을 행사할 수 있는 <strong>American option</strong>과 계약만료일에만 행사할 수 있는 <strong>Europoean option</strong>이 있다.<br>
+  금융수단의 매입 선택권인지 매출 선택권인지에 따라, <strong>Call option</strong>과 <strong>Put option</strong>이 있다.<br>
+  선택권의 대상이 되는 금융수단의 종류에 따라, 주식 옵션과 금융선물 옵션 등이 있다.
+</p>
