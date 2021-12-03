@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "파생상품"
-author: "Chester"
 comments: true
 tags: Tale
 excerpt_separator: <!--more-->
