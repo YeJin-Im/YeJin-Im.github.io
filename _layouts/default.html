@@ -50,7 +50,7 @@
             // predict can take in an image, video or canvas html element
             const prediction = await model.predict(webcam.canvas);
             console.log(prediction[0].probability);
-            if(prediction[0].probability>0.5){
+            if(prediction[0].probability>0.4){
                 console.log('올바른');
                 document.querySelector('body').style.backgroundColor = 'white';
             }else{
